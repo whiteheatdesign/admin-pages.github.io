@@ -68,11 +68,11 @@ body:before {
 }
 
 hr {
-	border-bottom: 1px solid #e093a2;
+	border-bottom: 1px solid #f08498;
 }
 
 h1, h2, h3, h4 {
-	color: #e093a2;
+	color: #f08498;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 300;
 }
@@ -110,7 +110,7 @@ h4 {
 }
 
 a {
-  color: #e093a2;
+  color: #f08498;
   transition: all 0.3s;
   border-bottom: 1px solid;
   font-weight: bold;
@@ -121,7 +121,7 @@ a:hover {
 }
 
 .callout.primary {
-	background-color: #e093a2;
+	background-color: #f08498;
   border: 1px solid #004e8c;
   color: #ffffff;
   border-radius: 6px;
